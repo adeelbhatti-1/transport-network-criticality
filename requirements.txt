@@ -1,0 +1,6 @@
+# Inferred direct dependencies; versions and compatibility have not been tested.
+matplotlib
+networkx
+numpy
+pandas
+jupyterlab
